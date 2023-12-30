@@ -52,7 +52,7 @@ const Footer = () => {
           </p>
           <form className='flex flex-col sm:flex-row'>
             <input className='w-full p-2 mr-4 rounded-md mb-4' type='email' placeholder='Enter email..' />
-            <button className='p-2 mb-4 rounded-md'>Subscribe</button>
+            <button className='p-2 mb-4 rounded-md hover:text-white'>Subscribe</button>
           </form>
         </div>
       </div>
